@@ -1,0 +1,50 @@
+Age,Gender,Country,state,self_employed,family_history,treatment,work_interfere,no_employees,remote_work,tech_company,benefits,seek_help,anonymity,leave,mental_health_consequence,phys_health_consequence,coworkers
+37,Female,United States,IL,NA,No,Yes,Often,Jun-25,No,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them
+44,M,United States,IN,NA,No,No,Rarely,More than 1000,No,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,No
+32,Male,Canada,NA,NA,No,No,Rarely,Jun-25,No,Yes,No,No,Don't know,Somewhat difficult,No,No,Yes
+31,Male,United Kingdom,NA,NA,Yes,Yes,Often,26-100,No,Yes,No,No,No,Somewhat difficult,Yes,Yes,Some of them
+31,Male,United States,TX,NA,No,No,Never,100-500,Yes,Yes,Yes,Don't know,Don't know,Don't know,No,No,Some of them
+33,Male,United States,TN,NA,Yes,No,Sometimes,Jun-25,No,Yes,Yes,Don't know,Don't know,Don't know,No,No,Yes
+35,Female,United States,MI,NA,Yes,Yes,Sometimes,01-May,Yes,Yes,No,No,No,Somewhat difficult,Maybe,Maybe,Some of them
+39,M,Canada,NA,NA,No,No,Never,01-May,Yes,Yes,No,No,Yes,Don't know,No,No,No
+42,Female,United States,IL,NA,Yes,Yes,Sometimes,100-500,No,Yes,Yes,No,No,Very difficult,Maybe,No,Yes
+23,Male,Canada,NA,NA,No,No,Never,26-100,No,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Yes
+31,Male,United States,OH,NA,No,Yes,Sometimes,Jun-25,Yes,Yes,Don't know,No,Don't know,Don't know,No,No,Some of them
+29,male,Bulgaria,NA,NA,No,No,Never,100-500,Yes,Yes,Don't know,No,Don't know,Don't know,No,No,Yes
+42,female,United States,CA,NA,Yes,Yes,Sometimes,26-100,No,No,Yes,No,Don't know,Somewhat difficult,Yes,Yes,Yes
+36,Male,United States,CT,NA,Yes,No,Never,500-1000,No,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Yes
+27,Male,Canada,NA,NA,No,No,Never,Jun-25,No,Yes,Don't know,Don't know,Don't know,Somewhat easy,No,No,Some of them
+29,female,United States,IL,NA,Yes,Yes,Rarely,26-100,No,Yes,Yes,No,Don't know,Somewhat easy,No,No,Yes
+23,Male,United Kingdom,NA,NA,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Don't know,Don't know,Very easy,Maybe,No,Some of them
+32,Male,United States,TN,NA,No,Yes,Sometimes,Jun-25,No,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them
+46,male,United States,MD,Yes,Yes,No,Sometimes,01-May,Yes,Yes,Yes,Don't know,Yes,Very easy,No,No,Yes
+36,Male,France,NA,Yes,Yes,No,NA,Jun-25,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Some of them
+29,Male,United States,NY,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,No,No,Somewhat difficult,Maybe,No,Some of them
+31,male,United States,NC,Yes,No,No,Never,01-May,Yes,Yes,No,No,Yes,Somewhat difficult,No,No,Some of them
+46,Male,United States,MA,No,No,Yes,Often,26-100,Yes,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them
+41,Male,United States,IA,No,No,Yes,Never,More than 1000,No,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,No
+33,male,United States,CA,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Yes,Yes,Don't know,No,No,Yes
+35,male,United States,TN,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Don't know,No,Very easy,Yes,No,Some of them
+33,male,United States,TN,No,No,No,NA,01-May,No,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them
+35,Female,United States,CA,No,Yes,Yes,Rarely,Jun-25,Yes,Yes,Yes,Don't know,Don't know,Don't know,No,No,Yes
+34,male,United States,OH,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Don't know,Don't know,Somewhat difficult,No,No,Some of them
+37,Male,United Kingdom,NA,No,No,No,Sometimes,Jun-25,No,Yes,No,No,Don't know,Very difficult,Yes,Maybe,Some of them
+32,Male,United Kingdom,NA,No,No,No,Never,Jun-25,Yes,Yes,No,No,Don't know,Don't know,Yes,Yes,Some of them
+31,Male,United States,PA,Yes,Yes,No,Rarely,01-May,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,No,No
+30,male,United Kingdom,NA,No,Yes,Yes,Sometimes,500-1000,Yes,Yes,Don't know,No,Yes,Somewhat easy,Maybe,No,Some of them
+42,Male,United States,WA,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Some of them
+40,female,United States,WI,No,No,Yes,Sometimes,01-May,No,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them
+27,Male,United States,NY,No,No,Yes,Rarely,Jun-25,No,Yes,No,No,Don't know,Very easy,No,No,Yes
+29,Male,Canada,NA,No,No,No,Rarely,01-May,No,Yes,No,No,Don't know,Very easy,Yes,Maybe,Some of them
+38,Male,Portugal,NA,No,No,No,NA,100-500,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them
+50,M,United States,IN,No,No,No,NA,100-500,No,Yes,Yes,Don't know,Don't know,Don't know,No,No,Some of them
+35,M,United States,TX,No,No,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes
+24,Male,United Kingdom,NA,No,No,Yes,Sometimes,Jun-25,No,Yes,No,No,Don't know,Don't know,Maybe,Maybe,Some of them
+35,Male,United States,MI,No,No,No,NA,More than 1000,Yes,Yes,Yes,Yes,Don't know,Somewhat difficult,Yes,Yes,Some of them
+27,Male,Canada,NA,No,Yes,Yes,Sometimes,01-May,No,Yes,No,No,Yes,Very difficult,Maybe,No,Some of them
+18,Male,Netherlands,NA,No,No,No,Often,Jun-25,No,Yes,No,No,Don't know,Somewhat difficult,Yes,Maybe,No
+30,Male,United States,IN,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,No,Don't know,Don't know,No,No,No
+38,Female,United States,TX,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them
+28,Male,United Kingdom,NA,No,No,No,NA,26-100,No,Yes,Don't know,No,Don't know,Don't know,No,Maybe,Some of them
+34,Male,United States,TN,No,No,No,NA,Jun-25,No,Yes,No,No,Don't know,Don't know,No,No,Yes
+26,m,Canada,NA,Yes,No,No,Sometimes,01-May,No,Yes,No,No,Don't know,Don't know,No,No,Yes
